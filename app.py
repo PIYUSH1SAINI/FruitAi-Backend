@@ -11,7 +11,7 @@ CORS(app)
 
 
 # MongoDB Atlas connection string (replace with your URI)
-app.config["MONGO_URI"] = "mongodb+srv://rajitchaudhary34:rajit@fruit.yd8ce.mongodb.net/faqs_db?retryWrites=true&w=majority"
+app.config["MONGO_URI"] = "mongodb+srv://piyushsaini20001:Piyushsaini@cluster0.xip6h.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 # Initialize PyMongo
 mongo = PyMongo(app)
