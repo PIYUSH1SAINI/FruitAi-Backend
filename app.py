@@ -129,11 +129,6 @@ fruits = {
     "description": "A small, fuzzy fruit with bright green flesh and tiny black seeds.",
     "image": "images/kiwi.jpg"
   },
-  "mango": {
-    "name": "Mango",
-    "description": "A sweet, tropical fruit with orange flesh and a large pit.",
-    "image": "images/mango.jpg"
-  },
   "pineapple": {
     "name": "Pineapple",
     "description": "A tropical fruit with a tough, spiky exterior and sweet, juicy flesh.",
