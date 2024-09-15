@@ -138,6 +138,7 @@ fruits = {
     "name": "Pineapple",
     "description": "A tropical fruit with a tough, spiky exterior and sweet, juicy flesh.",
     "image": "images/pineapple.jpg"
+  }
     # Add more fruits as needed
 }
 
